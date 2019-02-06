@@ -15,6 +15,15 @@ Below are the higlighted projects:
       -	America and Asia are leading continents with maximum sales on Wednesdays and Thursdays.
       -	US and India are the leading countries.
 -	Provided the insights/visualizations using R significantly shiny. 
+###[_Amazon Alexia Reviews (R)_]( https://viraj.shinyapps.io/Amazon_review/)
+-	Explored the Amazon alexia product reviews.
+-	Developed sentiments on reviews with the help of qdap, tm, tidy text packages 
+-	Results: 
+      -	July and August with highest number of reviews.
+      -	82 % positive reviews with frequently words used were love, smart, music etc.  
+      -	Joyful, anticipation and trustful were most positive emotions from reviews. 
+-	Built visualizations using R shiny.
+
 
 ```markdown
 
