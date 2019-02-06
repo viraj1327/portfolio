@@ -38,9 +38,9 @@ Below are the higlighted projects:
 
 # Education
 
-### _University of New Hampshire	                                                                               Durham, NH_
+### _University of New Hampshire_	                                                                              _Durham, NH_
 -	**Master of Science in Analytics**; expected May 2019
-### _Mumbai University                                                                                          Mumbai, India_
+### _Mumbai University_                                                                                        _Mumbai, India_
 -	**Bachelor of Engineering in Electrical and Electronics, Fr.CRCE**; August 2017
 
 ```markdown
