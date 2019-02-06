@@ -15,7 +15,8 @@ Below are the higlighted projects:
       -	America and Asia are leading continents with maximum sales on Wednesdays and Thursdays.
       -	US and India are the leading countries.
 -	Provided the insights/visualizations using R significantly shiny. 
-###[_Amazon Alexia Reviews (R)_]( https://viraj.shinyapps.io/Amazon_review/)
+
+### [_Amazon Alexia Reviews (R)_]( https://viraj.shinyapps.io/Amazon_review/)
 -	Explored the Amazon alexia product reviews.
 -	Developed sentiments on reviews with the help of qdap, tm, tidy text packages 
 -	Results: 
