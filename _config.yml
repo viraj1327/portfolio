@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Viraj Salvi
 github:
   is_project_page: false
+# Site settings
+url: "https://github.com/viraj1327/portfolio" 
