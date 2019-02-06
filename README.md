@@ -36,6 +36,13 @@ Below are the higlighted projects:
 -	Guide students on homework and lab assignments in python.
 -	Provide feedback to improve programming technique and efficiency.
 
+# Education
+
+### _University of New Hampshire	                                                                               Durham, NH_
+-	Master of Science in Analytics; expected May 2019
+### _Mumbai University                                                                                          Mumbai, India_
+-	Bachelor of Engineering in Electrical and Electronics, Fr.CRCE; August 2017
+
 ```markdown
 
 Syntax highlighted code block
