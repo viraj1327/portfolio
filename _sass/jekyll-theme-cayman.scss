@@ -106,12 +106,13 @@ a {
 }
 
 .page-header {
-  color: #ffff;
+  color: #FFFF;
   text-align: center;
-  background-color: #A067AB;
-  background-image: linear-gradient(120deg, #5073B8, #A067AB);
+  background-color: #FFFF;
+  background-image: url('/1.jpg');
   //![](images/1.png)
   //background-image:linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color)
+  //linear-gradient(120deg, #5073B8, #A067AB)
   //background-color:$header-bg-color
   //color: $header-heading-color
   @include large {
