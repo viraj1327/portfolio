@@ -1,7 +1,6 @@
 # About Me
 
-Very well-educated data scientist candidate with excellent statistical knowledge and the ability to identify fine points of data in a sea of information. Well-versed in spreadsheets, statistics, and scientific research. Able to process new data
-quickly and communicate it effectively to lay individuals.
+Data Scientist with strong math background and experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
 
 
 # Projects
