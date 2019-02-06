@@ -12,8 +12,8 @@ Below are the higlighted projects:
 -	Examined marketing strategies for proper investments for 8 million google data.
 -	Improved Exploratory data analysis with imputation of the non-city’s values with metropolitans’ cities using hmsic, numpy packages.
 -	Results: 
-      o	America and Asia are leading continents with maximum sales on Wednesdays and Thursdays.
-      o	US and India are the leading countries.
+      -	America and Asia are leading continents with maximum sales on Wednesdays and Thursdays.
+      -	US and India are the leading countries.
 -	Provided the insights/visualizations using R significantly shiny. 
 
 ```markdown
