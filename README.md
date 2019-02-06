@@ -25,6 +25,22 @@ Below are the higlighted projects:
       -	Joyful, anticipation and trustful were most positive emotions from reviews. 
 -	Built visualizations using R shiny.
 
+### [Crime in the US, UNH Analytics and Data Science (Python)]					           
+-	Investigated US Gun Violence from 2013-2017.
+-	Analyzed 240k records using libraries pandas, scikit-learn, matplotlib etc. 
+-	Results: 
+      -	US has 4.43% as highest gun deaths compared to Middle East countries.
+      -	60%gun deaths are suicides, with gun deaths on July 4th increasing gradually.
+      -	California, Illinois and Florida considered top states for mass shootings.
+      -	Obtained, Logistic Regression prediction of 13.3% Misclassification rate.
+      -	Performed, PCA and K-means Clustering with Cook County, Philadelphia County, LA County etc. as an Outlier cluster.
+
+### [Lending Club, UNH Analytics and Data Science (Python)]					       		      
+-	Analysis of pre and post IPO behavior of peer to peer lending platform Lending Club.
+-	Used pandas profiling, standardized data for outlier analysis and balanced the imbalanced classes.
+-	Results:
+      -	80 % and 75% Prediction for Grades A & B against others using gradient boosting and random forest algorithm.
+-	Predicting higher prediction percentage for random forest by growing more trees.
 
 
 
