@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/viraj1327/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+```markdown
 Very well-educated data scientist candidate with excellent statistical knowledge and the ability to identify fine points of data in a sea of information. Well-versed in spreadsheets, statistics, and scientific research. Able to process new data quickly and communicate it effectively to lay individuals.
+```
 
 ### Markdown
 
