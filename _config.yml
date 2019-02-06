@@ -2,5 +2,26 @@ theme: jekyll-theme-cayman
 title: Viraj Salvi
 github:
   is_project_page: false
+  
+# Short bio or description (displayed in the header)
+description: Data Scientist
+
 # Site settings
 url: "https://github.com/viraj1327/portfolio" 
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: salvi.viraj007@gmail.com
+  facebook:
+  flickr:
+  github: https://github.com/viraj1327?tab=repositories
+  instagram:
+  linkedin: https://www.linkedin.com/in/virajvsalvi/
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
