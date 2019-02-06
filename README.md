@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/viraj1327/portfolio/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Very well-educated data scientist candidate with excellent statistical knowledge and the ability to identify fine points of data in a sea of information. Well-versed in spreadsheets, statistics, and scientific research. Able to process new data quickly and communicate it effectively to lay individuals.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
