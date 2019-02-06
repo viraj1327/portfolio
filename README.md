@@ -41,6 +41,7 @@ Below are the higlighted projects:
 
 -University of New Hampshire	                                                                                      Durham, NH
 -	**Master of Science in Analytics**; expected May 2019
+
 -Mumbai University                                                                                               Mumbai, India 
 -	**Bachelor of Engineering in Electrical and Electronics, Fr.CRCE**; August 2017
 
