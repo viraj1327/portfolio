@@ -26,6 +26,16 @@ Below are the higlighted projects:
 -	Built visualizations using R shiny.
 
 
+
+
+# Relevant Experience
+
+## Research Assistant, UNH-IT Strategic Technology, Durham, NH 				   	   
+-	Redesign database to minimize the amount of the time that researchers spend manipulating, thus allowing researchers to focus on data analysis.
+## Lab Assistant, UNH College of Engineering and Physical Sciences, Durham, NH		                   
+-	Guide students on homework and lab assignments in python.
+-	Provide feedback to improve programming technique and efficiency.
+
 ```markdown
 
 Syntax highlighted code block
