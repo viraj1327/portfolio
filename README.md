@@ -1,7 +1,11 @@
 ## About Me
 
 ```markdown
-Very well-educated data scientist candidate with excellent statistical knowledge and the ability to identify fine points of data in a sea of information. Well-versed in spreadsheets, statistics, and scientific research. Able to process new data quickly and communicate it effectively to lay individuals.
+Very well-educated data scientist candidate with excellent statistical knowledge and the ability to identify fine points of
+
+data in a sea of information. Well-versed in spreadsheets, statistics, and scientific research. Able to process new data 
+
+quickly and communicate it effectively to lay individuals.
 ```
 
 ### Markdown
