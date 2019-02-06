@@ -25,7 +25,7 @@ Below are the higlighted projects:
       -	Joyful, anticipation and trustful were most positive emotions from reviews. 
 -	Built visualizations using R shiny.
 
-### [Crime in the US, UNH Analytics and Data Science (Python)]					           
+### [Crime in the US, UNH Analytics and Data Science (Python)]()				           
 -	Investigated US Gun Violence from 2013-2017.
 -	Analyzed 240k records using libraries pandas, scikit-learn, matplotlib etc. 
 -	Results: 
@@ -35,7 +35,7 @@ Below are the higlighted projects:
       -	Obtained, Logistic Regression prediction of 13.3% Misclassification rate.
       -	Performed, PCA and K-means Clustering with Cook County, Philadelphia County, LA County etc. as an Outlier cluster.
 
-### [Lending Club, UNH Analytics and Data Science (Python)]					       		      
+### [Lending Club, UNH Analytics and Data Science (Python)]()				       		      
 -	Analysis of pre and post IPO behavior of peer to peer lending platform Lending Club.
 -	Used pandas profiling, standardized data for outlier analysis and balanced the imbalanced classes.
 -	Results:
