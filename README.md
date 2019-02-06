@@ -1,15 +1,12 @@
 ## About Me
 
-```markdown
-
 Very well-educated data scientist candidate with excellent statistical knowledge and the ability to identify fine points of data in a sea of information. Well-versed in spreadsheets, statistics, and scientific research. Able to process new data
 quickly and communicate it effectively to lay individuals.
 
-```
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are the higlighted projects:
 
 ```markdown
 Syntax highlighted code block
