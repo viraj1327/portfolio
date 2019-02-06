@@ -30,9 +30,9 @@ Below are the higlighted projects:
 
 # Relevant Experience
 
-## Research Assistant, UNH-IT Strategic Technology, Durham, NH 				   	   
+## _Research Assistant, UNH-IT Strategic Technology, Durham, NH_ 				   	   
 -	Redesign database to minimize the amount of the time that researchers spend manipulating, thus allowing researchers to focus on data analysis.
-## Lab Assistant, UNH College of Engineering and Physical Sciences, Durham, NH		                   
+## _Lab Assistant, UNH College of Engineering and Physical Sciences, Durham, NH_		                   
 -	Guide students on homework and lab assignments in python.
 -	Provide feedback to improve programming technique and efficiency.
 
