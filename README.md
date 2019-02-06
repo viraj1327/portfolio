@@ -8,7 +8,7 @@ quickly and communicate it effectively to lay individuals.
 
 Below are the higlighted projects:
 
-# Google Customer Revenue Analysis (Python, R)							     	                                                   Fall 2018
+### Google Customer Revenue Analysis (Python, R)							     	                                                  
 •	Examined marketing strategies for proper investments for 8 million google data.
 •	Improved Exploratory data analysis with imputation of the non-city’s values with metropolitans’ cities using hmsic, numpy packages.
 •	Results: 
