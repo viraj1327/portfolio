@@ -29,7 +29,7 @@ Below are the higlighted projects:
 -	Analyzed 240k records using libraries pandas, scikit-learn, matplotlib etc. 
 -	Results: 
       -	US has 4.43% as highest gun deaths compared to Middle East countries.
-      -	60%gun deaths are suicides, with gun deaths on July 4th increasing gradually.
+      -	60% gun deaths are suicides, with gun deaths on July 4th increasing gradually.
       -	California, Illinois and Florida considered top states for mass shootings.
       -	Obtained, Logistic Regression prediction of 13.3% Misclassification rate.
       -	Performed, PCA and K-means Clustering with Cook County, Philadelphia County, LA County etc. as an Outlier cluster.
