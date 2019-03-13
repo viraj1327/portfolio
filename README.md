@@ -38,7 +38,7 @@ Below are the higlighted projects:
 -	Analysis of pre and post IPO behavior of peer to peer lending platform Lending Club.
 -	Used pandas profiling, standardized data for outlier analysis and balanced the imbalanced classes.
 -	Results:
-      -	80 % and 75% Prediction for Grades A & B against others using gradient boosting and random forest algorithm.
+      -     80 % and 75% Prediction for Grades A & B against others using gradient boosting and random forest algorithm.
 -	Predicting higher prediction percentage for random forest by growing more trees.
 
 
@@ -50,12 +50,12 @@ Below are the higlighted projects:
 
 ### [_Lab Assistant, UNH College of Engineering and Physical Sciences, Durham, NH_](https://ceps.unh.edu/computer-science) 
 -     Assist the class of 40 students with the concepts and techniques of python programming such as:
-      -      Data Types, Operators, Expressions
-      -      Program Control using Conditions
-      -      Loops and Repetition
-      -      Functions
-      -      Lists, Tuples, Dictionaries
-      -      Arrays using Numerical Packages
+      -     Data Types, Operators, Expressions
+      -     Program Control using Conditions
+      -     Loops and Repetition
+      -     Functions
+      -     Lists, Tuples, Dictionaries
+      -     Arrays using Numerical Packages
 
 # Education
 
