@@ -50,12 +50,12 @@ Below are the higlighted projects:
 
 ### [_Lab Assistant, UNH College of Engineering and Physical Sciences, Durham, NH_](https://ceps.unh.edu/computer-science) 
 -     Assist the class of 40 students with the concepts and techniques of python programming such as:
-            • Data Types, Operators, Expressions
-            • Program Control using Conditions
-            • Loops and Repetition
-            • Functions
-            • Lists, Tuples, Dictionaries
-            • Arrays using Numerical Packages
+      -      Data Types, Operators, Expressions
+      -      Program Control using Conditions
+      -      Loops and Repetition
+      -      Functions
+      -      Lists, Tuples, Dictionaries
+      -      Arrays using Numerical Packages
 
 # Education
 
