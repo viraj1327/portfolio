@@ -49,7 +49,7 @@ Below are the higlighted projects:
 -	Redesign database to minimize the amount of the time that researchers spend manipulating, thus allowing researchers to focus on data analysis.
 
 ### [_Lab Assistant, UNH College of Engineering and Physical Sciences, Durham, NH_](https://ceps.unh.edu/computer-science) 
-- Assist the class of 40 students with the concepts and techniques of python programming such as:
+-     Assist the class of 40 students with the concepts and techniques of python programming such as:
       -     Data Types, Operators, Expressions
       -     Program Control using Conditions
       -     Loops and Repetition
